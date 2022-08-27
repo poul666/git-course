@@ -7,5 +7,8 @@ public class Quiz {
         System.out.println("Я изучаю");
         System.out.println("Я изучаю");
         System.out.println("Я изучаю git");
+        System.out.println("Я изучаю git");
+        System.out.println("Я изучаю git");
+        System.out.println("Я изучаю git");
     }
 }
